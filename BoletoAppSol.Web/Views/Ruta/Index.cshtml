@@ -1,0 +1,54 @@
+﻿@model IEnumerable<BoletoAppSol.Data.Entitiies.Ruta>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Adm Rutas</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdRuta)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Origen)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Destino)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaCreacion)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdRuta)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Origen)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Destino)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FechaCreacion)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.IdRuta }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.IdRuta })
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
