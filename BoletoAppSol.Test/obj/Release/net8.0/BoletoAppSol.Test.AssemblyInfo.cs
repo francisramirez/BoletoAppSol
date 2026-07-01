@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BoletoAppSol.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de6482dbad7fd4f06b778b38b0dfe85569e654a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("BoletoAppSol.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BoletoAppSol.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
