@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BoletoAppSol.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fa5b16a6f2e3a5347e4abf40829ebcb6d46ac0f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d65cb71469cd8dbea7a26c59c650a54dc05971e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("BoletoAppSol.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BoletoAppSol.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

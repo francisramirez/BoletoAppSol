@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BoletoAppSol.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de6482dbad7fd4f06b778b38b0dfe85569e654a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d65cb71469cd8dbea7a26c59c650a54dc05971e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("BoletoAppSol.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BoletoAppSol.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

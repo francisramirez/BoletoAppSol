@@ -1,36 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\MyPjrs\\BoletosApp\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{E45091CF-0A55-492C-95E4-56FFB592D714}|BoletoAppSol.Data\\BoletoAppSol.Data.csproj|d:\\mypjrs\\boletosapp\\boletoappsol.data\\context\\boletocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E45091CF-0A55-492C-95E4-56FFB592D714}|BoletoAppSol.Data\\BoletoAppSol.Data.csproj|solutionrelative:boletoappsol.data\\context\\boletocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63F5DA61-EA04-45C9-919D-C58D0653F767}|BoletoAppSol.Test\\BoletoAppSol.Test.csproj|d:\\mypjrs\\boletosapp\\boletoappsol.test\\rutatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63F5DA61-EA04-45C9-919D-C58D0653F767}|BoletoAppSol.Test\\BoletoAppSol.Test.csproj|solutionrelative:boletoappsol.test\\rutatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63F5DA61-EA04-45C9-919D-C58D0653F767}|BoletoAppSol.Test\\BoletoAppSol.Test.csproj|d:\\mypjrs\\boletosapp\\boletoappsol.test\\asientotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63F5DA61-EA04-45C9-919D-C58D0653F767}|BoletoAppSol.Test\\BoletoAppSol.Test.csproj|solutionrelative:boletoappsol.test\\asientotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63F5DA61-EA04-45C9-919D-C58D0653F767}|BoletoAppSol.Test\\BoletoAppSol.Test.csproj|d:\\mypjrs\\boletosapp\\boletoappsol.test\\bustest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63F5DA61-EA04-45C9-919D-C58D0653F767}|BoletoAppSol.Test\\BoletoAppSol.Test.csproj|solutionrelative:boletoappsol.test\\bustest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E45091CF-0A55-492C-95E4-56FFB592D714}|BoletoAppSol.Data\\BoletoAppSol.Data.csproj|d:\\mypjrs\\boletosapp\\boletoappsol.data\\repositories\\rutarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E45091CF-0A55-492C-95E4-56FFB592D714}|BoletoAppSol.Data\\BoletoAppSol.Data.csproj|solutionrelative:boletoappsol.data\\repositories\\rutarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E45091CF-0A55-492C-95E4-56FFB592D714}|BoletoAppSol.Data\\BoletoAppSol.Data.csproj|d:\\mypjrs\\boletosapp\\boletoappsol.data\\repositories\\busrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E45091CF-0A55-492C-95E4-56FFB592D714}|BoletoAppSol.Data\\BoletoAppSol.Data.csproj|solutionrelative:boletoappsol.data\\repositories\\busrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E45091CF-0A55-492C-95E4-56FFB592D714}|BoletoAppSol.Data\\BoletoAppSol.Data.csproj|d:\\mypjrs\\boletosapp\\boletoappsol.data\\repositories\\asientorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E45091CF-0A55-492C-95E4-56FFB592D714}|BoletoAppSol.Data\\BoletoAppSol.Data.csproj|solutionrelative:boletoappsol.data\\repositories\\asientorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -38,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1496,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -63,92 +34,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RutaRepository.cs",
-              "DocumentMoniker": "D:\\MyPjrs\\BoletosApp\\BoletoAppSol.Data\\Repositories\\RutaRepository.cs",
-              "RelativeDocumentMoniker": "BoletoAppSol.Data\\Repositories\\RutaRepository.cs",
-              "ToolTip": "D:\\MyPjrs\\BoletosApp\\BoletoAppSol.Data\\Repositories\\RutaRepository.cs",
-              "RelativeToolTip": "BoletoAppSol.Data\\Repositories\\RutaRepository.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAWwBwAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T22:48:23.392Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RutaTest.cs",
-              "DocumentMoniker": "D:\\MyPjrs\\BoletosApp\\BoletoAppSol.Test\\RutaTest.cs",
-              "RelativeDocumentMoniker": "BoletoAppSol.Test\\RutaTest.cs",
-              "ToolTip": "D:\\MyPjrs\\BoletosApp\\BoletoAppSol.Test\\RutaTest.cs",
-              "RelativeToolTip": "BoletoAppSol.Test\\RutaTest.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAQwDMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T22:48:44.813Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BusRepository.cs",
-              "DocumentMoniker": "D:\\MyPjrs\\BoletosApp\\BoletoAppSol.Data\\Repositories\\BusRepository.cs",
-              "RelativeDocumentMoniker": "BoletoAppSol.Data\\Repositories\\BusRepository.cs",
-              "ToolTip": "D:\\MyPjrs\\BoletosApp\\BoletoAppSol.Data\\Repositories\\BusRepository.cs",
-              "RelativeToolTip": "BoletoAppSol.Data\\Repositories\\BusRepository.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA3wBUAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T00:00:47.205Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BusTest.cs",
-              "DocumentMoniker": "D:\\MyPjrs\\BoletosApp\\BoletoAppSol.Test\\BusTest.cs",
-              "RelativeDocumentMoniker": "BoletoAppSol.Test\\BusTest.cs",
-              "ToolTip": "D:\\MyPjrs\\BoletosApp\\BoletoAppSol.Test\\BusTest.cs",
-              "RelativeToolTip": "BoletoAppSol.Test\\BusTest.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBMAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T23:48:17.698Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AsientoTest.cs",
-              "DocumentMoniker": "D:\\MyPjrs\\BoletosApp\\BoletoAppSol.Test\\AsientoTest.cs",
-              "RelativeDocumentMoniker": "BoletoAppSol.Test\\AsientoTest.cs",
-              "ToolTip": "D:\\MyPjrs\\BoletosApp\\BoletoAppSol.Test\\AsientoTest.cs",
-              "RelativeToolTip": "BoletoAppSol.Test\\AsientoTest.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAuwDMAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T23:44:38.066Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AsientoRepository.cs",
-              "DocumentMoniker": "D:\\MyPjrs\\BoletosApp\\BoletoAppSol.Data\\Repositories\\AsientoRepository.cs",
-              "RelativeDocumentMoniker": "BoletoAppSol.Data\\Repositories\\AsientoRepository.cs",
-              "ToolTip": "D:\\MyPjrs\\BoletosApp\\BoletoAppSol.Data\\Repositories\\AsientoRepository.cs",
-              "RelativeToolTip": "BoletoAppSol.Data\\Repositories\\AsientoRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAADwvxoAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T23:12:39.319Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BoletoContext.cs",
-              "DocumentMoniker": "D:\\MyPjrs\\BoletosApp\\BoletoAppSol.Data\\Context\\BoletoContext.cs",
-              "RelativeDocumentMoniker": "BoletoAppSol.Data\\Context\\BoletoContext.cs",
-              "ToolTip": "D:\\MyPjrs\\BoletosApp\\BoletoAppSol.Data\\Context\\BoletoContext.cs",
-              "RelativeToolTip": "BoletoAppSol.Data\\Context\\BoletoContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T23:11:41.299Z",
-              "EditorCaption": ""
             }
           ]
         },
